@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Main page](README.md)
+* [Python knowledge base](README.md)
 
 ## Python basics
 

@@ -1,7 +1,7 @@
 ---
-description: Test page
+description: My little project
 ---
 
-# Main page
+# Python knowledge base
 
-Test content
+Для просмотра содержания перейдите по ссылке: [https://michaelodeli.github.io/py\_knowledge-base/SUMMARY](https://michaelodeli.github.io/py\_knowledge-base/SUMMARY)
