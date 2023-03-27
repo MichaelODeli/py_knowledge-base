@@ -16,7 +16,6 @@ ox.config(
     use_cache=True, 
     cache_folder='C:/Users/MichaelODeli/OneDrive/DEVELOP/work/Python/projects/py_railway_navigation/osmnx_cache'
     )
-    origin = (56.859603, 60.605155)
 ```
 
 ### Load geometry from place
@@ -38,6 +37,7 @@ fig, ax = ox.plot_graph(G, node_size=0, edge_color="w", edge_linewidth=0.2)
 ### Routing
 
 ```python
+origin = (56.859603, 60.605155)
 destination = (56.858718, 62.702409)
 # Определение ближайшей вершины графа
 origin_node = ox.distance.nearest_nodes(G, origin[1], origin[0])
