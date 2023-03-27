@@ -30,3 +30,8 @@
 
 * [Building a graphs](plotly/building-a-graphs/README.md)
   * [Small graph](plotly/building-a-graphs/small-graph.md)
+
+## OSMnx
+
+* [Save and load graph](osmnx/save-and-load-graph.md)
+* [Create graph from place](osmnx/create-graph-from-place.md)
